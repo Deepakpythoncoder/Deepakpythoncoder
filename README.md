@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Deepakpythoncoder
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on MNCs
+- 💞️ I’m looking to collaborate on small companies
 
 <!---
 Deepakpythoncoder/Deepakpythoncoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
