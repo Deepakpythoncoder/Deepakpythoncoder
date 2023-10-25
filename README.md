@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deepakpythoncoder
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python gui
 - 💞️ I’m looking to collaborate on small companies
 
 <!---
